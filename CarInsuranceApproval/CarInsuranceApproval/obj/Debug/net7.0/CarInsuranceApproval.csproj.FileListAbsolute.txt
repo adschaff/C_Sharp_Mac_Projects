@@ -1,0 +1,15 @@
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/bin/Debug/net7.0/CarInsuranceApproval
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/bin/Debug/net7.0/CarInsuranceApproval.deps.json
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/bin/Debug/net7.0/CarInsuranceApproval.runtimeconfig.json
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/bin/Debug/net7.0/CarInsuranceApproval.dll
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/bin/Debug/net7.0/CarInsuranceApproval.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.csproj.AssemblyReference.cache
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.AssemblyInfoInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.AssemblyInfo.cs
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.csproj.CoreCompileInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.dll
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/refint/CarInsuranceApproval.dll
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/CarInsuranceApproval.genruntimeconfig.cache
+/Users/nbi_alexschaffer/Documents/GitHub/CarInsuranceApproval/CarInsuranceApproval/obj/Debug/net7.0/ref/CarInsuranceApproval.dll
