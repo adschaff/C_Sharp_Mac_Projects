@@ -1,0 +1,15 @@
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/bin/Debug/net7.0/Package_Express
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/bin/Debug/net7.0/Package_Express.deps.json
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/bin/Debug/net7.0/Package_Express.runtimeconfig.json
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/bin/Debug/net7.0/Package_Express.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/bin/Debug/net7.0/Package_Express.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.csproj.AssemblyReference.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.AssemblyInfoInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.AssemblyInfo.cs
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.csproj.CoreCompileInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/refint/Package_Express.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/Package_Express.genruntimeconfig.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/Package_Express/Package_Express/obj/Debug/net7.0/ref/Package_Express.dll
