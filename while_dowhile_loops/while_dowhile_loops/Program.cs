@@ -16,7 +16,7 @@ namespace LoopAssignments
 
             do
             {
-                switch (beverage)
+                switch (beverage) //sets the different ansewrs/case for several beverage options
                 {
                     case "Alcohol":
                         Console.WriteLine("You guessed alcohol. Wrong!");
@@ -45,7 +45,7 @@ namespace LoopAssignments
             string coffee_type = Console.ReadLine();
             bool isCorrect = coffee_type == "espresso";
 
-            while (!isCorrect)
+            while (!isCorrect) // sets the different options for type of coffee 
             {
                 switch (coffee_type)
                 {
@@ -64,7 +64,7 @@ namespace LoopAssignments
                         break;
                     case "espresso":
                         isCorrect = true;
-                        break;
+                        break; // lets the program know that espresso is the correct answer and to break out of the loop
                 }
             }
             Console.WriteLine("You picked espresso! That is correct!!!");
