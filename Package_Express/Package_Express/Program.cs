@@ -48,7 +48,7 @@ else
     else
 
     {
-        double Sum2 = sum * Weight2 / 100;
+        double Sum2 = ((Width2 * Height2 * Length2) * Weight2)/ 100;
 
         Console.WriteLine("Your total shipping cost will be:");
 
