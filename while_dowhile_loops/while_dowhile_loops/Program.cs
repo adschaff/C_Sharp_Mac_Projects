@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace LoopAssignments
 {
@@ -37,6 +38,11 @@ namespace LoopAssignments
                         Console.WriteLine("You guessed Coffee. That is correct!!");
                         isGuessed = true;
                         break;
+                    default:
+                        Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Guess again!");
+                        beverage = Console.ReadLine();
+                        break;
                 }
             }
             while (!isGuessed); //Once the correct option is picked, the next loop starts:
@@ -65,7 +71,14 @@ namespace LoopAssignments
                     case "espresso":
                         isCorrect = true;
                         break; // lets the program know that espresso is the correct answer and to break out of the loop
+
+                    default:
+                        Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Guess again!");
+                        beverage = Console.ReadLine();
+                        break;
                 }
+
             }
             Console.WriteLine("You picked espresso! That is correct!!!");
             Console.ReadLine();
