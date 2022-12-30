@@ -31,7 +31,7 @@ else
 
     double Height2 = Convert.ToDouble(Height);
 
-    double Length2 = Convert.ToDouble(Width);
+    double Length2 = Convert.ToDouble(Length);
 
     double sum = Width2 + Height2 + Length2; // sets up the variable for the three different l/w/h inputs
 
