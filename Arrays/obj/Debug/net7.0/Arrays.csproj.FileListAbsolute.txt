@@ -1,0 +1,15 @@
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/nbi_alexschaffer/Projects/Arrays/Arrays/obj/Debug/net7.0/ref/Arrays.dll
