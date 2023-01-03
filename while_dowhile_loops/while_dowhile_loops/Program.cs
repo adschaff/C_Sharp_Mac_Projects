@@ -75,7 +75,7 @@ namespace LoopAssignments
                     default:
                         Console.WriteLine("You are wrong.");
                         Console.WriteLine("Guess again!");
-                        beverage = Console.ReadLine();
+                        coffee_type = Console.ReadLine();
                         break;
                 }
 
