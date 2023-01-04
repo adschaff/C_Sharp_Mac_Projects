@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "catch_block_assignment1/1.0.0": {
+        "runtime": {
+          "catch_block_assignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "catch_block_assignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
