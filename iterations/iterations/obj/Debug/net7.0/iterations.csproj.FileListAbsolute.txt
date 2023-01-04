@@ -1,0 +1,15 @@
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/bin/Debug/net7.0/iterations
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/bin/Debug/net7.0/iterations.deps.json
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/bin/Debug/net7.0/iterations.runtimeconfig.json
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/bin/Debug/net7.0/iterations.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/bin/Debug/net7.0/iterations.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.csproj.AssemblyReference.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.AssemblyInfoInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.AssemblyInfo.cs
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.csproj.CoreCompileInputs.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/refint/iterations.dll
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.pdb
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/iterations.genruntimeconfig.cache
+/Users/nbi_alexschaffer/Documents/GitHub/C_Sharp_Mac_Projects/iterations/iterations/obj/Debug/net7.0/ref/iterations.dll
