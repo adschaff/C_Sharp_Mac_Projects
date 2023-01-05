@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{5621F1EC-458F-4CC5-B3E2-C3CE9262AE5B}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.catch__block__assignment1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.catch__block__assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="catch_block_assignment1/Program.cs">
+    <Files>
+      <File FileName="catch_block_assignment1/Program.cs" Line="23" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="catch_block_assignment1" expanded="True">
+            <Node name="catch_block_assignment1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
